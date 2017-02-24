@@ -37,3 +37,42 @@ c:\users\matsunaga\documents\visual studio 2015\Projects\Recommend Bot\Recommend
 c:\users\matsunaga\documents\visual studio 2015\Projects\Recommend Bot\Recommend Bot\obj\Debug\Recommend Bot.csprojResolveAssemblyReference.cache
 c:\users\matsunaga\documents\visual studio 2015\Projects\Recommend Bot\Recommend Bot\obj\Debug\Bot Application1.dll
 c:\users\matsunaga\documents\visual studio 2015\Projects\Recommend Bot\Recommend Bot\obj\Debug\Bot Application1.pdb
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Bot Application1.dll.config
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Bot Application1.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Bot Application1.pdb
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Autofac.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Chronic.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Newtonsoft.Json.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\System.Web.Http.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Autofac.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\Newtonsoft.Json.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\System.Web.Http.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\obj\Debug\Recommend Bot.csprojResolveAssemblyReference.cache
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\obj\Debug\Bot Application1.dll
+C:\Users\matsunaga\Documents\RecommendBot\Recommend Bot\obj\Debug\Bot Application1.pdb
